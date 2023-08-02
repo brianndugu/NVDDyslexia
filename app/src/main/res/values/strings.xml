@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NVD-Dyslexia</string>
+    <string name="writing_skills">writing_skills</string>
+    <string name="reading_skills">reading_skills</string>
+    <string name="spelling_skills">spelling_skills</string>
+    <string name="reading_comprehension">reading_comprehension</string>
+    <string name="memory_sequencing">memory_sequencing</string>
+    <string name="does_the_child_frequently_confuse_or_reverse_letters_numbers_or_words_while_reading">Does the child frequently confuse or reverse letters, numbers, or words while reading?</string>
+    <string name="does_the_child_struggle_with_decoding_or_sounding_out_unfamiliar_words">Does the child struggle with decoding or sounding out unfamiliar words?</string>
+    <string name="does_the_child_hava_difficulty_recognizing_sight_words_or_frequently_forget_them">Does the child hava difficulty recognizing sight words or frequently forget them?</string>
+    <string name="does_the_child_difficulty_organizing_through_and_ideas_for_handwriting_assignment">Does the child difficulty organizing through and ideas for handwriting assignment?</string>
+    <string name="does_the_child_experience_challenges_with_sentence_structure_grammar_or_punctuation">Does the child experience challenges with sentence structure, grammar, or punctuation?</string>
+    <string name="does_the_child_have_difficulty_organizing_thoughts_and_ideas_for_writing_assignments">Does the child have difficulty organizing thoughts and ideas for writing assignments?</string>
+    <string name="does_the_child_have_difficulty_understanding_and_remembering_what_they_have_read">Does the child have difficulty understanding and remembering what they have read?</string>
+    <string name="does_the_child_struggle_to_make_inferences_or_draw_conclusions_from_reading_passages">Does the child struggle to make inferences or draw conclusions from reading passages?</string>
+    <string name="does_the_child_find_it_challenging_to_summarize_or_retell_the_main_points_of_a_story_or_text">Does the child find it challenging to summarize or retell the main points of a story or text?</string>
+    <string name="does_the_child_have_difficulty_remembering_and_recalling_information_such_as_instructions_or_sequences_of_events">Does the child have difficulty remembering and recalling information, such as instructions or sequences of events?</string>
+    <string name="does_the_child_struggle_with_remembering_and_correctly_ordering_numbers_letters_or_steps_in_a_process">Does the child struggle with remembering and correctly ordering numbers, letters, or steps in a process?</string>
+    <string name="does_the_child_frequently_misspell_words_even_after_repeated_practice">Does the child frequently misspell words, even after repeated practice?</string>
+    <string name="does_the_child_have_difficulty_remembering_spelling_rules_or_applying_them_consistently">Does the child have difficulty remembering spelling rules or applying them consistently?</string>
+    <string name="does_the_child_omit_or_mix_up_letters_or_sounds_when_spelling_words">Does the child omit or mix up letters or sounds when spelling words?</string>
+    <string name="does_the_child_struggle_with_handwriting_such_as_messy_or_illegible_writing">Does the child struggle with handwriting, such as messy or illegible writing?</string>
+</resources>
